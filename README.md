@@ -51,25 +51,6 @@
 
 ---
 
-## 💡 Featured Project
-
-<div align="center">
-
-### 🚧 Devfix
-
-> Building solutions, one commit at a time.  
-> An ongoing project focused on turning ideas into useful software.
-
-<br/>
-
-<a href="https://github.com/Aryan-Makhija?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">

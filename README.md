@@ -1,105 +1,121 @@
 <div align="center">
 
-Hey, I'm Aryan Makhija 👋
-Full-Stack Developer · Builder · Lifelong Learner
+# 👋 Hey, I'm Aryan Makhija
 
-Turning ideas into impactful products through code.
+### 💻 Full-Stack Developer | 🚀 Builder | 🤖 AI Explorer
 
-🌐 Let's Connect
-<p>
-<a href="https://github.com/aryan-makhija">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <em>I build web applications, explore AI, and turn ideas into reality through code.</em>
+</p>
+
+<br/>
+
+<a href="https://github.com/Aryan-Makhija">
+  <img src="https://komarev.com/ghpvc/?username=Aryan-Makhija&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/aryan_makhija">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="mailto:aryan@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+
+<br/><br/>
+
+<p align="center">
+  <a href="https://github.com/Aryan-Makhija">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-makhija-1a43a6352">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/Aryan_Makhija">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:aryanmakhija1030@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=aryan-makhija&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
-🚀 About Me
-name: Aryan Makhija
-role: Full-Stack Developer
-currently_building: Devfix
-currently_learning: LangChain
-interests:
-  - Full-Stack Development
-  - AI & LLM Applications
-  - Building Useful Products
-  - Problem Solving
+</div>
 
-🔭 Building Devfix — a project I'm actively working on.
-🌱 Exploring LangChain, LLMs, and AI-powered applications.
-🤝 Open to collaborating on interesting projects and new ideas.
-💬 Ask me about full-stack development, backend systems, and web technologies.
-🎯 Always learning, experimenting, and building something new.
-🛠️ Tech Stack
-💻 Languages
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,sass" alt="Languages" />
-</p>
+## 🚀 About Me
 
-⚡ Frontend & Design
+- 🔭 **Currently building:** Devfix
+- 🌱 **Currently learning:** LangChain and AI-powered applications
+- 👯 **Looking to collaborate on:** Devfix and exciting development projects
+- 💬 **Ask me about:** Full-stack development, backend systems, and web technologies
+- 🎯 **Interests:** Building products, solving problems, and learning new technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,figma" alt="Frontend and Design" />
-</p>
+---
 
-🔧 Backend & Databases
+## 🛠️ Tech Stack & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" alt="Backend and Databases" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **💻 Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,sass" alt="C, C++, JavaScript, HTML, CSS, Sass" /> |
+| **🎨 Frontend & Design** | <img src="https://skillicons.dev/icons?i=react,tailwind,figma" alt="React, Tailwind CSS, Figma" /> |
+| **⚙️ Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" alt="Node.js, Express, MongoDB, PostgreSQL, Redis" /> |
+| **🔧 DevOps & Developer Tools** | <img src="https://skillicons.dev/icons?i=docker,nginx,postman,git,github" alt="Docker, Nginx, Postman, Git, GitHub" /> |
+| **📊 Data Visualization** | <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" /> |
 
-⚙️ Tools & Infrastructure
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,postman,git,github" alt="Tools and Infrastructure" />
-</p>
-
-📊 Data Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-</p>
-
-📌 Featured Project
+## 💡 Featured Project
 
 <div align="center">
 
-🚧 Devfix
+### 🚧 Devfix
 
-Building, improving, and solving real-world problems through software.
+> Building solutions, one commit at a time.  
+> An ongoing project focused on turning ideas into useful software.
 
-<a href="https://github.com/aryan-makhija">
-<img src="https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+<br/>
+
+<a href="https://github.com/Aryan-Makhija?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories" />
 </a>
 
 </div>
 
-📈 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryan-makhija&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aryan's GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-makhija&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
+<a href="https://github.com/Aryan-Makhija">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aryan-Makhija&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aryan's GitHub Stats" />
+</a>
+<a href="https://github.com/Aryan-Makhija">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-Makhija&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</a>
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Aryan-Makhija&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
 </div>
 
-<div align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=aryan-makhija&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</div>
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-💭 A Little Something About Me
+💬 **Have an idea? Let's build something awesome!**
 
-“Great software isn't just written — it's thoughtfully built, tested, and improved.”
+<p align="center">
+  <a href="https://github.com/Aryan-Makhija">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aryan-makhija-1a43a6352">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:aryanmakhija1030@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+  </a>
+</p>
 
-Thanks for stopping by! Let's build something awesome. 🚀
+<br/>
+
+✨ *Always learning. Always building. Always improving.*  
+Thanks for visiting my profile! 💜
 
 </div>

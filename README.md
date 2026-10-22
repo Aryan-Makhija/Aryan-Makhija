@@ -8,13 +8,7 @@
   <em>I build web applications, explore AI, and turn ideas into reality through code.</em>
 </p>
 
-<br/>
 
-<a href="https://github.com/Aryan-Makhija">
-  <img src="https://komarev.com/ghpvc/?username=Aryan-Makhija&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
-</a>
-
-<br/><br/>
 
 <p align="center">
   <a href="https://github.com/Aryan-Makhija">
